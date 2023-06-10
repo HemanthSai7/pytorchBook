@@ -1,8 +1,9 @@
 .vscode
 __pycache__
 
-FasterTraining/aclImdb
 FasterTraining/logs
+FasterTraining/aclImdb
+FasterTraining/aclImdb_v1.tar.gz
 
 Chapter8-SentimentAnalysis/aclImdb
 Chapter8-SentimentAnalysis/movie_data.csv
